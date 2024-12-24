@@ -1,0 +1,10 @@
+99d3fbb05cca18ea30d65228a6313958
+
+
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+
+https://api.openweathermap.org/data/2.5/weather?q=india&appid=99d3fbb05cca18ea30d65228a6313958
+
+
+https://api.openweathermap.org/data/2.5/weather?q=india&appid=99d3fbb05cca18ea30d65228a6313958&units=metric
