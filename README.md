@@ -31,7 +31,7 @@ cd WeatherApp
 
 ## How to Use
 
-Open the WeatherApp in a browser. link : 
+Open the WeatherApp in a browser. link : https://nandhini14-rdm.github.io/WeatherApp/
 Type the name of any city in the search box.
 Press the search button or hit enter.
 View the weather information displayed for the selected city.
