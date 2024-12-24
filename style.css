@@ -103,3 +103,19 @@ body{
     margin-top: 4px;
     display: none;
 }
+
+.footer {
+    background-color: #373434;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;
+}
+
+.footer p {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
