@@ -165,7 +165,6 @@ body{
     }
 }
 
-/* Medium Mobile (max-width: 600px) */
 @media (max-width: 600px) {
     .card{
         padding: 30px 20px;
